@@ -80,3 +80,9 @@ body {
   margin-bottom: 20px;
   text-transform: uppercase;
 }
+
+.page-footer {
+  background-color: #4E4D4D;
+  color: #FFFFFF;
+  padding: 10px 0 0px;
+}
